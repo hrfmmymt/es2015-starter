@@ -1,4 +1,4 @@
-# es2015-starter
+# ES2015-starter
 
 > ES2015's minimum starter kit
 
